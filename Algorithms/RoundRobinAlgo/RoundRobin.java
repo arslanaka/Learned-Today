@@ -33,7 +33,6 @@ class RoundRobin{
             if (currentProcess.getRemainingTime() > timeQuantum){
 
                 System.out.println("Process" + currentProcess.getId() + " executed for " + timeQuantum + " units");
-                currentProcess.getRemainingTime() -= timeQuantum;
 
 
             }
