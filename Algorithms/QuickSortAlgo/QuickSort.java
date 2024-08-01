@@ -1,3 +1,5 @@
+package QuickSortAlgo;
+
 public class QuickSort {
 
 
